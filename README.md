@@ -4,7 +4,7 @@ cd /your_project
 mvn clean compile
 cd ..
 cp your_data.csv ./data/
-cp netflix/target/YourJar-uber.jar ./data/
+cp your_project/target/YourJar-uber.jar ./data/
 ```
 
 ```
